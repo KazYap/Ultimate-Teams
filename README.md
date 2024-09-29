@@ -9,7 +9,7 @@ UltimateTeams does support H2 (preferred over SQLite), SQLite, MySQL, MariaDB (p
 
 **All database operations are executed asynchronously, to prevent any form of lag**
 
-**FEATURES**
+# Features
 
 ⭐ Optimization
 The whole plugin is developed with optimization in mind, and it has been tested with more than 100 active players.
@@ -35,7 +35,7 @@ Staff members can force players to join a team or disband another
 ⭐ GUI
 Teams list can also be accessed in a paginated GUI
 
-**COMMANDS**
+# Commands
 
 /team command
 Aliases: /team
@@ -72,7 +72,7 @@ The /tc command is for the sole purpose of utilising the per team chat. The foll
 
 /tc <message> - This will send a message to only the members of YOUR team or the team you are in.
 
-**PERMISSIONS**
+# Permissions
  
 Player permissions
 
