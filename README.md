@@ -74,7 +74,7 @@ The /tc command is for the sole purpose of utilising the per team chat. The foll
 
 # Permissions
  
-Player permissions
+**Player permissions**
 
 ultimateteams.chat.spy
 ultimateteams.team.create
@@ -99,7 +99,8 @@ ultimateteams.team.list
 ultimateteams.team.transfer
 ultimateteams.team.prefix
 ultimateteams.team.info
-Admin permissions:
+
+**Admin permissions:**
 
 ultimateteams.admin.about
 ultimateteams.admin.reload
